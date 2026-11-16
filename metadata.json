@@ -1,0 +1,6 @@
+{
+  "name": "Patrol City",
+  "description": "3D open-world police action game featuring Officers Motu and Patlu patrolling a living city with drivable cruisers, dynamic day/night lighting, missions, and Hindi/Urdu/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
